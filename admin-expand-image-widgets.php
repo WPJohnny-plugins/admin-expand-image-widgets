@@ -4,7 +4,7 @@
  * Description: Auto-expand image widgets on Dashboard Widgets page, making images visible.
  * Author: WPJohnny
  * Author URI: https://wpjohnny.com/
- * Version: 0.1.1
+ * Version: 0.1.2
  * Text Domain: admin-expand-image-widgets
  * Domain Path: /languages/
  */

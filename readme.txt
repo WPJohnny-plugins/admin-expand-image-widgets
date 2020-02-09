@@ -1,10 +1,10 @@
-=== Restricted Site Access ===
+=== Admin Expand Image Widgets ===
 Contributors: treeflips
 Donate link: https://wordpress.org/plugins/admin-expand-image-widgets/
 Tags: widgets, images
 Requires at least: 4.9
 Tested up to: 5.3
-Stable tag: 0.1.1
+Stable tag: 0.1.2
 
 Auto-expand image widgets from Widgets page, making images visible.
 
@@ -18,6 +18,9 @@ Auto-expand image widgets from Widgets page, making images visible.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Changelog ==
+
+= 0.1.2 =
+* Correct plugin name in readme file
 
 = 0.1.1 =
 * Add compatibility with WordPress 5.3
