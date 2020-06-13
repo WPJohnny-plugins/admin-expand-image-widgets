@@ -5,6 +5,7 @@ Tags: widgets, images
 Requires at least: 4.9
 Tested up to: 5.4.1
 Stable tag: 0.1.3
+License: GPL-2.0+
 
 Auto-expand image widgets from Widgets page, making images visible.
 
