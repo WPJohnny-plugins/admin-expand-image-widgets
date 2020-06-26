@@ -1,9 +1,11 @@
 <?php
 /**
  * Plugin Name: Admin Expand Image Widgets
+ * Plugin URI: https://wpjohnny.com/admin-expand-image-widgets/
  * Description: Auto-expand image widgets on Dashboard Widgets page, making images visible.
  * Author: WPJohnny
  * Author URI: https://wpjohnny.com/
+ * Donate link: https://www.paypal.me/wpjohnny
  * Version: 0.1.3
  * Text Domain: admin-expand-image-widgets
  * Domain Path: /languages/
