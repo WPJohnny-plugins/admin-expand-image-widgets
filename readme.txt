@@ -19,6 +19,15 @@ This plugin helps you manage image widgets easier. If you manage many image widg
 <li>Activate the plugin through the 'Plugins' menu in WordPress.</li>
 </ol>
 
+== Frequently Asked Questions ==
+
+= Does this plugin work with the newest WP version and also older versions? =
+Yes, this plugin works perfect with the latest version of WordPress! It also works with older versions as well but you should always run the latest WordPress and PHP version for best security and performance. This plugin is used on my critical sites so you can be assured it works perfect.
+
+= Will this plugin slow down my site? =
+No. No CSS or JS is loaded on frontend. It's a super lean, super tiny plugin.
+
+
 == Screenshots ==
 1. Image widget is automatically expanded so you can see it.
 
