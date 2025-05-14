@@ -2,13 +2,12 @@
 /**
  * Plugin Name: Admin Expand Image Widgets
  * Plugin URI: https://wpjohnny.com/admin-expand-image-widgets/
- * Description: Auto-expand image widgets on Dashboard Widgets page, making images visible.
- * Author: WPJohnny
- * Author URI: https://wpjohnny.com/
+ * Description: Auto-expand image widgets on Dashboard Widgets page, making images visible in classic mode (not Gutenberg mode).
+ * Author: <a href="https://wpjohnny.com">WPJohnny</a>, <a href="https://profiles.wordpress.org/zeroneit/">zerOneIT</a>
  * Donate link: https://www.paypal.me/wpjohnny
- * Version: 0.1.3
- * Text Domain: admin-expand-image-widgets
- * Domain Path: /languages/
+ * Version: 0.1.6
+ * License:      GPL v2 or later
+ * License URI:  https://www.gnu.org/licenses/gpl-2.0.txt
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
